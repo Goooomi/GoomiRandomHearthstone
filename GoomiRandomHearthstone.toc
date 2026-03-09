@@ -1,0 +1,12 @@
+## Interface: 120000, 120001
+## Title: GoomiRandomHearthstone
+## Notes: Use a random weighted hearthstone toy every time you hearth
+## Author: Goomi
+## Version: 1.0.0
+## X-Curse-Project-ID: 0000000
+## Category: Goomi|cFF3AC2D6U|r|cFFEE2D40I|r
+## RequiredDeps: GoomiUI
+## IconTexture: Interface\Icons\inv_misc_rune_01
+## SavedVariables: GoomiRandomHearthstoneDB
+
+goomirandomhearthstone.lua
