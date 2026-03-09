@@ -1,0 +1,13 @@
+package-as: GoomiRandomHearthstone
+
+enable-nolib-creation: no
+
+externals:
+  Libs/LibStub:
+    url: https://repos.wowace.com/wow/libstub/trunk
+    tag: latest
+
+ignore:
+  - .github
+  - .gitignore
+  - README.md
